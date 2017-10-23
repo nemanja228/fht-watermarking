@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FHTWatermarking.BlindDCT">
+    <Position X="0.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAIAAAQAQAAAIEBAAAAAAACAACAIAAgAAAIAAQ=</HashCode>
+      <FileName>BlindDCT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.Cache">
+    <Position X="7.5" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.WatermarkingStrategy">
+    <Position X="2" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ARUQAAAAAAAAAQCAEoEBABAAAQEAAACAAAAwAAAAFAQ=</HashCode>
+      <FileName>WatermarkingStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.InformedSVD">
+    <Position X="3.75" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAAIAAAAAQABAIABAAAAAQACAACAIAAgAIAAAAQ=</HashCode>
+      <FileName>InformedSVD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.ImageUtility">
+    <Position X="7.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAAAAAAAAAAAYAAAAAAgAAAQACAAAAAEAAAAA=</HashCode>
+      <FileName>ImageUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.ImageAttacks">
+    <Position X="7.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAIAAAAIAAAAAAAAEAEggAAAAgAAAAAAAAAEA=</HashCode>
+      <FileName>ImageAttacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.FibonacciSequence">
+    <Position X="6.75" Y="8.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAABAAAABAAAAAAAAAAAAAAAAEAEABgAAAA=</HashCode>
+      <FileName>FibonacciSequence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.RgbData">
+    <Position X="0.5" Y="0.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAAAACAEAAQA=</HashCode>
+      <FileName>RgbData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.Statistics">
+    <Position X="0.5" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAIAAAAAAAAAAAAAAAAAAAAAgAAAAQAA=</HashCode>
+      <FileName>Statistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.MainForm">
+    <Position X="5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>w9WCgCNUoCCFIDxABkCBaDIKAxggSJQDJoIIArlDPEI=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FHTWatermarking.Program">
+    <Position X="5.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
